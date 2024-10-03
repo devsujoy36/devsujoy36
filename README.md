@@ -13,7 +13,7 @@
 <div>
 <h4 align="left">A passionate Front-End Web Developer from Bangladesh</h4>
 <p>
-  I'm a Front-End Web Developer, based in Dhaka, Bangladesh. Currently I'm doing diploma in Computer Engineering. I'm expert in HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, React JS, basic of Node js, Express js, MongoDB, Next JS.
+  I'm a Front-End Web Developer, based in Dhaka, Bangladesh. Currently I'm doing diploma in Computer Engineering. I'm expert in HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, React JS.
 </p>  
 </div>
 

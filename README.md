@@ -20,7 +20,7 @@
 <h2 align="left">⚒️Technologies • Tools⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nextjs,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react" />
   <br/>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,photoshop,figma,vite" /><br>
 </div>

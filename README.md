@@ -28,12 +28,11 @@
 <br/>
 <div>
   <div align="center">
-  <a href="https://github.com/codebyahadul">
+  <a href="https://github.com/devsujoy36">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devsujoy36&theme=github_dark" alt="GitHub Streak">
   </a>
 </div>
-<h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
-<br/>
+
 <div>
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsujoy36&theme=github_dark">
  

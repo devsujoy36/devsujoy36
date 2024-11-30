@@ -29,7 +29,7 @@
 <div>
   <div align="center">
   <a href="https://github.com/codebyahadul">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=codebyahadul&theme=github_dark" alt="GitHub Streak">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=devsujoy36&theme=github_dark" alt="GitHub Streak">
   </a>
 </div>
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>

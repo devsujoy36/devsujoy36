@@ -24,7 +24,14 @@
   <br/>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,photoshop,figma,vite" /><br>
 </div>
-
+<h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
+<br/>
+<div>
+  <div align="center">
+  <a href="https://github.com/codebyahadul">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=codebyahadul&theme=github_dark" alt="GitHub Streak">
+  </a>
+</div>
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
 <br/>
 <div>

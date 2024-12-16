@@ -44,9 +44,9 @@
 
 ## :mailbox: Reach me out
 <p align="center">
-  <a href="#"><img height="55" src="./images/icons/website.png" alt="Website"/></a>
-  <a href="https://www.facebook.com/md.ahadul.islam.53831"><img height="55" src="./images/icons/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/ahadaulislam/"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://nestmartbd.netlify.app/"><img height="55" src="./images/icons/website.png" alt="Website"/></a>
+  <a href="https://www.facebook.com/sujoydas36"><img height="55" src="./images/icons/facebook.png" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/sujoy-das-57a05a306"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 

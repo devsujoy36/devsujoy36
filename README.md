@@ -49,15 +49,12 @@
   <a href="https://www.linkedin.com/in/sujoy-das-57a05a306"><img height="55" src="./images/icons/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
-
-
 <div>
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devsujoy36&theme=github_dark">
  
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devsujoy36&theme=github_dark">
 
   <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devsujoy36&theme=github_dark&utcOffset=8" alt="GitHub Stats">
-
 
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsujoy36&theme=github_dark" alt="GitHub Stats">
 </div>

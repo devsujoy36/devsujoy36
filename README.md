@@ -1,7 +1,9 @@
-<!-- <div id="header" align="center">
-    <img src="/image/cover.jpeg" alt="Banner Image">
+<div id="header" align="center">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEmraplLRTBgQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713946402444?e=1747267200&v=beta&t=7cFBMgljLFN-wP5UJoQk4XN9ufIxBX_WfNNGmZregF8" alt="Banner Image">
 </div>
--->
+
+
+
 <div>
   <a href="https://www.linkedin.com/in/sujoy-das-57a05a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
